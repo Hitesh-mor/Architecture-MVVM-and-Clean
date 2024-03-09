@@ -1,13 +1,10 @@
-Architecture-MVVM-and-Clean
+# Clean Architecture and MVVM on iOS
+https://tech.olx.com/clean-architecture-and-mvvm-on-ios-c9d167d9f5b3
+
+In mobile software engineering, the most widely used Architectural patterns are MVVM, Clean Architecture and Redux patterns.
 
 
-Point to take care while study
-Keep doing other task in between of study to keep going on and make it interesting
-- Music, Breaks, Food, Trips Search
-- YouTube work, Shd work, Any Planning
-- Take a NAP 
-- Call People
-- Try Chair while Study 
-- Switch between Topics 
-- If got an idea to think - delay it for break 
-- Phone usage delay it for break 
+
+
+# Questions w.r.t current topic 
+Architectural Pattern vs Design Pattern ?

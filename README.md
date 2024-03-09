@@ -6,5 +6,5 @@ In mobile software engineering, the most widely used Architectural patterns are 
 
 
 
-# Questions w.r.t current topic 
+### Questions w.r.t current topic 
 Architectural Pattern vs Design Pattern ?
